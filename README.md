@@ -1,4 +1,4 @@
-# 🚀 Welcome to SyntaxSamurai's Digital Universe! 
+# 🚀 Welcome to LogicSamurai's Digital Universe! 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Guru+Patel+%F0%9F%91%8B;Software+Engineer+%40+SilverTouch+Technologies;Python+%7C+Java+%7C+Odoo+Developer;Building+the+future%2C+one+line+at+a+time!" alt="Typing SVG" />
